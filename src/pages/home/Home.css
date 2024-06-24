@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+.titulo {
+    color: orange;
+    text-align: center;
+}
+
+.texto {
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.textov {
+    color: greenyellow;
+    text-align: center;
+}
